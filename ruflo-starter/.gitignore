@@ -1,0 +1,14 @@
+# Ruflo local secrets and runtime data
+.env
+.env.local
+.env.*.local
+.claude-flow/data/
+.claude-flow/logs/
+.claude-flow/sessions/
+
+# Runtime state not covered by the generated ignore list
+ruvector.db
+.swarm/*.db
+.swarm/*.db-wal
+.swarm/*.db-shm
+.claude-flow/daemon.pid

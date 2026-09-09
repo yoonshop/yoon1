@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-09-09T09:36:08.602Z",
+  "projectRoot": "/home/user/yoon1/ruflo-starter",
+  "structure": {
+    "hasPackageJson": false,
+    "hasTsConfig": false,
+    "hasClaudeConfig": true,
+    "hasClaudeFlow": true
+  },
+  "scannedAt": 1788946568602
+}
